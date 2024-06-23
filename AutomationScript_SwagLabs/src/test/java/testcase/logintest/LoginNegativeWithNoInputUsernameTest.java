@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import pages.LoginPage;
 
+//TEST CASE ID: TC_Login_004
 public class LoginNegativeWithNoInputUsernameTest {
     WebDriver driver;
 

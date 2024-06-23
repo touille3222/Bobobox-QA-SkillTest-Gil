@@ -9,6 +9,7 @@ import org.testng.annotations.Test;
 import pages.HomePage;
 import pages.LoginPage;
 
+//TEST CASE ID: TC_Login_001
 public class LoginPositiveTest {
     WebDriver driver;
 

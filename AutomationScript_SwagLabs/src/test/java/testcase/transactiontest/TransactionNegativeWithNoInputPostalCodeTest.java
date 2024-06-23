@@ -11,6 +11,7 @@ import pages.CheckoutPage;
 import pages.HomePage;
 import pages.LoginPage;
 
+//TEST CASE ID: TC_Transaction_011
 public class TransactionNegativeWithNoInputPostalCodeTest {
     WebDriver driver;
 

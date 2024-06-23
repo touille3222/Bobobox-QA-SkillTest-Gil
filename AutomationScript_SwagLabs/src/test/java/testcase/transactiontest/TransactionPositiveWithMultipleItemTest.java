@@ -8,6 +8,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import pages.*;
 
+//TEST CASE ID: TC_Transaction_008
 public class TransactionPositiveWithMultipleItemTest {
     WebDriver driver;
 
